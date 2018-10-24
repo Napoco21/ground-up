@@ -1,4 +1,5 @@
-
+// Get The Middle Character
+// Solution by Troy Sweeney 2018
 class Kata {
 	public static String getMiddle(String word) {
 	int position;
